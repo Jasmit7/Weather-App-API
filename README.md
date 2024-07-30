@@ -10,9 +10,6 @@
  ### Login page
  ![screenshot](login.png)
 
- ### Dashboard
- ![screenshot](home.png)
-
  # Installation and set up
  Clone this repo into your machine. 
  Prerequisites: **python, virtual environment**
