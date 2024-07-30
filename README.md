@@ -5,13 +5,13 @@
 
  # Screenshots
  ### Signup page
- ![screenshot](screenshots/signup.png)
+ ![screenshot](signup.png)
 
  ### Login page
- ![screenshot](screenshots/login.png)
+ ![screenshot](login.png)
 
  ### Dashboard
- ![screenshot](screenshots/home.png)
+ ![screenshot](home.png)
 
  # Installation and set up
  Clone this repo into your machine. 
